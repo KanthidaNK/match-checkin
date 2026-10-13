@@ -1,0 +1,8 @@
+{
+  "name": "Match Check-in",
+  "description": "ระบบจับคู่เช็กอินสองทาง (Mutual Verification) พร้อมระบบคำนวณค่าสอน/ค่าจ้างแบบยืดหยุ่น และหน้าต่างตรวจสอบสิทธิ์สำหรับบุคคลที่สาม",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
